@@ -1,0 +1,19 @@
+.main-header {
+  @apply sticky top-0 z-30 h-16 bg-blue-500 shadow-sm shadow-gray-600;
+
+  .burger-btn {
+    @apply absolute h-16 w-fit px-7 md:pl-9;
+  }
+
+  .home-btn-container {
+    @apply absolute right-0 top-0 mr-7 h-16 w-8 md:mr-9;
+
+    .home-btn {
+      @apply flex h-full;
+    }
+  }
+
+  .main-header-txt {
+    @apply text-center text-4xl leading-[64px] text-white;
+  }
+}

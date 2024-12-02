@@ -1,0 +1,27 @@
+.chip {
+  @apply m-auto h-8 w-fit rounded-full px-3 text-lg font-bold leading-8 text-white;
+
+  &.size-sm {
+    @apply h-6 text-sm leading-6;
+  }
+
+  &.default {
+    @apply bg-slate-500;
+  }
+
+  &.primary {
+    @apply bg-blue-500;
+  }
+
+  &.danger {
+    @apply bg-red-500;
+  }
+
+  &.warning {
+    @apply bg-yellow-500;
+  }
+
+  &.success {
+    @apply bg-green-500;
+  }
+}

@@ -1,0 +1,11 @@
+.not-found {
+  @apply flex h-[calc(_100vh_-_64px)] flex-col items-center justify-center;
+
+  .icon-container {
+    @apply flex h-36 w-36 justify-center;
+  }
+
+  .msg-header {
+    @apply mt-6 text-2xl;
+  }
+}

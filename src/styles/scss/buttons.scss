@@ -1,0 +1,23 @@
+.cart-btn {
+  @apply m-auto flex h-9 w-40 rounded-md bg-blue-500 px-3 text-lg leading-9 text-white;
+
+  &.disabled {
+    @apply cursor-not-allowed bg-slate-400;
+  }
+
+  &:hover:not(.disabled) {
+    @apply bg-blue-400;
+  }
+
+  .btn-icon {
+    @apply ml-2 flex h-full w-5 items-center;
+  }
+
+  .btn-text {
+    @apply w-full;
+  }
+
+  &.purchase {
+    @apply justify-center md:ml-[350px];
+  }
+}

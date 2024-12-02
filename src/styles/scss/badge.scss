@@ -1,0 +1,7 @@
+.badge {
+  @apply hidden;
+
+  &.show {
+    @apply absolute right-[22px] top-3 z-10 block h-3 w-3 rounded-full bg-red-600;
+  }
+}

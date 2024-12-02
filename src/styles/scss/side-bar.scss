@@ -1,0 +1,55 @@
+.side-bar {
+  @apply fixed left-0 top-0 z-20 flex h-full w-full -translate-x-[600px] flex-col justify-start bg-gradient-to-b from-sky-500 to-indigo-500 py-16 text-white transition-all duration-700 ease-in-out md:w-[400px] md:-translate-x-[400px] md:duration-500;
+
+  li {
+    @apply opacity-0 transition-[opacity];
+
+    summary {
+      @apply cursor-pointer;
+    }
+  }
+
+  &.open {
+    @apply translate-x-0 delay-75 md:shadow-lg md:shadow-gray-700;
+
+    li {
+      @apply opacity-100;
+    }
+  }
+
+  .sections {
+    @apply mt-9 overflow-auto px-16 text-xl tracking-widest;
+
+    a {
+      &:hover {
+        @apply text-blue-700;
+      }
+    }
+
+    li {
+      &:not(:first-child) {
+        @apply pt-8;
+      }
+    }
+
+    .sub-menu {
+      @apply pl-8;
+
+      .sub-menu-items {
+        @apply cursor-pointer px-0 pb-0 pt-2;
+
+        &:first-child {
+          @apply pt-4;
+        }
+      }
+    }
+  }
+}
+
+.opaque-sreen {
+  @apply fixed left-0 top-0 hidden h-full w-full bg-black opacity-0 transition-all duration-300;
+
+  &.show {
+    @apply z-10 block opacity-60;
+  }
+}
