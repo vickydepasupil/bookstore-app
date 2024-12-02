@@ -7,13 +7,14 @@ import { AddToCartBtnProps } from './AddToCartBtnProps';
 
 const AddToCartBtn = ({ id, title, disabled }: AddToCartBtnProps) => {
   const addOrUpdateCartItem = async (id: string) => {
-    const res = await axios.post('http://localhost:3000/api/cart', { id });
+    const res = await axios.post(`${process.env.BASE_URL}/api/cart`, { id });
     return res;
   };
 
   const handleClick = async () => {
     try {
       const res = await addOrUpdateCartItem(id);
+      console.log('RESPONSE', res);
     } catch (err) {
       console.log('POST ERROR', err);
     }
