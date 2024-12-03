@@ -41,3 +41,9 @@
 Lighthouse is a tool used to check website performance. It audits the website for SEO, accessibility, and loading times, among other things, and provides insights on how to improve the code to meet industry standards. I ran the build version of the app through Lighthouse and got the following results:
 
 <img width="1680" alt="Screenshot 2024-12-03 at 4 26 44 PM" src="https://github.com/user-attachments/assets/66041b01-5421-4d3e-9d87-a14d88634969">
+
+### Build Pipeline Results
+Jest tests and linting in build pipeline
+
+<img width="807" alt="Screenshot 2024-12-03 at 5 24 39 PM" src="https://github.com/user-attachments/assets/9affd3cb-7276-4386-a748-61104f5137cc">
+
