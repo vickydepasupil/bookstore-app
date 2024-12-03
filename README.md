@@ -21,6 +21,7 @@
 
 #### Seed data is from https://openlibrary.org/ primarily.
 #### Some descriptions were copied from https://www.goodreads.com/ if missing from data provided by Open Library.
+#### Icons from https://fontawesome.com/
 
 ### Sample views:
 #### Landing Page - Desktop
