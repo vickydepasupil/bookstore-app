@@ -1,11 +1,7 @@
 .purchase-summary {
-  @apply mx-auto my-9 flex w-3/4 flex-col-reverse items-center justify-evenly text-center md:flex-row;
+  @apply mx-auto my-9 flex w-3/4 max-w-[900px] flex-col-reverse items-center justify-evenly text-center md:flex-row;
 
   .total-price {
     @apply text-2xl font-bold md:w-80;
   }
-}
-
-.delete-btn {
-  @apply h-6 w-6;
 }

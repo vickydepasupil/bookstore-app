@@ -2,7 +2,7 @@
   @apply flex w-72 flex-col space-y-2 rounded-md border border-gray-200 p-3 shadow-md shadow-gray-400 md:h-[610px] md:border-0 md:p-0 md:shadow-none;
 
   &.cart {
-    @apply mx-auto mt-6 w-3/4 overflow-y-auto;
+    @apply mx-auto mt-6 w-3/4 max-w-[1000px] overflow-y-auto;
 
     .cart-container {
       @apply my-2;
@@ -51,7 +51,11 @@
     }
 
     .delete-btn {
-      @apply mr-6 w-6;
+      @apply mr-6 h-9 w-9 rounded p-2;
+
+      &:hover {
+        @apply bg-slate-400 invert;
+      }
     }
   }
 

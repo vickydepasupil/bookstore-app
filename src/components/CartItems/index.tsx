@@ -29,9 +29,7 @@ const CartItem = ({ _id, title, cover, price, count }: CartItemsProps) => {
         <div className="label-mobile">Item Total</div>
         <div>${count * price}</div>
       </div>
-      <div className="delete-btn">
-        <DeleteBtn title={title} _id={_id} />
-      </div>
+      <DeleteBtn title={title} _id={_id} />
     </div>
   );
 };
