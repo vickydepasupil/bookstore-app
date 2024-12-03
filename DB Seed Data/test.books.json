@@ -1,0 +1,600 @@
+[{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969c6"
+  },
+  "title": "Charlie and the Chocolate Factory",
+  "author": "Roald Dahl",
+  "cover": "https://covers.openlibrary.org/b/id/10654862-L.jpg",
+  "description": "Charlie and the Chocolate Factory is a 1964 children's novel by British author Roald Dahl. The story features the adventures of young Charlie Bucket inside the chocolate factory of eccentric chocolatier Willy Wonka.\r\n\r\nCharlie and the Chocolate Factory was first published in the United States by Alfred A. Knopf, Inc. in 1964 and in the United Kingdom by George Allen & Unwin 11 months later. \r\n\r\nIn the 2012 survey published by SLJ, a monthly with primarily US audience, Charlie was the second of four books by Dahl among their Top 100 Chapter Books, one more than any other writer. Time magazine in the US included the novel in its list of the 100 Best Young-Adult Books of All Time.",
+  "genre": "Children's Books",
+  "price": 5.99,
+  "stocks": 3
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969c7"
+  },
+  "title": "Mockingjay",
+  "author": "Suzanne Collins",
+  "cover": "https://covers.openlibrary.org/b/id/14625197-L.jpg",
+  "description": "Against all odds, Katniss Everdeen has survived the Hunger Games twice. But now that she's made it out of the bloody arena alive, she's still not safe. The Capitol is angry. The Capitol wants revenge. Who do they think should pay for the unrest? Katniss. And what's worse, President Snow has made it clear that no one else is safe either. Not Katniss's family, not her friends, not the people of District 12. Powerful and haunting, this is the thrilling final installment of Suzanne Collins's groundbreaking Hunger Games trilogy.",
+  "genre": "Fantasy",
+  "price": 7.99,
+  "stocks": 4
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969c8"
+  },
+  "title": "Ocean at the End of the Lane",
+  "author": "Neil Gaiman",
+  "cover": "https://covers.openlibrary.org/b/id/12052924-L.jpg",
+  "description": "A middle-aged man returns to his childhood home to attend a funeral. Although the house he lived in is long gone, he is drawn to the farm at the end of the road, where, when he was seven, he encountered a most remarkable girl, Lettie Hempstock, and her mother and grandmother. He hasn't thought of Lettie in decades, and yet as he sits by the pond (a pond that she'd claimed was an ocean) behind the ramshackle old farmhouse, the unremembered past comes flooding back. And it is a past too strange, too frightening, too dangerous to have happened to anyone, let alone a small boy.\r\n\r\nForty years earlier, a man committed suicide in a stolen car at this farm at the end of the road. Like a fuse on a firework, his death lit a touchpaper and resonated in unimaginable ways. The darkness was unleashed, something scary and thoroughly incomprehensible to a little boy. And Lettie—magical, comforting, wise beyond her years—promised to protect him, no matter what.\r\n\r\nA groundbreaking work from a master, The Ocean at the End of the Lane is told with a rare understanding of all that makes us human, and shows the power of stories to reveal and shelter us from the darkness inside and out. It is a stirring, terrifying, and elegiac fable as delicate as a butterfly's wing and as menacing as a knife in the dark.",
+  "genre": "Fantasy",
+  "price": 7.99,
+  "stocks": 3
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969c9"
+  },
+  "title": "The Subtle Knife",
+  "author": "Philip Pullman",
+  "cover": "https://covers.openlibrary.org/b/id/12907386-L.jpg",
+  "description": "As the boundaries between worlds begin to dissolve, Lyra and her daemon help Will Parry in his search for his father and for a powerful, magical knife.\r\n\r\nShe had asked: What is he? A friend or an enemy?\r\n\r\nThe alethiometer answered: He is a murderer.\r\n\r\nWhen she saw the answer, she relaxed at once.\r\n\r\nLyra finds herself in a shimmering, haunted otherworld - Cittàgazze, where soul-eating Spectres stalk the streets and wingbeats of distant angels sound against the sky.\r\n\r\nBut she is not without allies: twelve-year-old Will Parry, fleeing for his life after taking another's, has also stumbled into this strange new realm.\r\n\r\nOn a perilous journey from world to world, Lyra and Will uncover a deadly secret: an object of extraordinary and devastating power.\r\n\r\nAnd with every step, they move closer to an even greater threat - and the shattering truth of their own destiny.",
+  "genre": "Fantasy",
+  "price": 5.99,
+  "stocks": 3
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969ca"
+  },
+  "title": "BFG",
+  "author": "Roald Dahl",
+  "cover": "https://covers.openlibrary.org/b/id/12891512-L.jpg",
+  "description": "This book is a great book for all ages. It is a fantasy/adventure book.The BFG stands for 'Big Friendly Giant'. He isn't like other giants, instead of going out to different countries to eat children he catches dreams. When he find's a little orphan girl watching him, he kidnaps her because he doesn't want anyone to find out that he was there, but when they arrive at giant's land they become friends and set off into the world to save all the children from the hungry giants.",
+  "genre": "Children's Books",
+  "price": 5.99,
+  "stocks": 5
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969cb"
+  },
+  "title": "The Count of Monte Cristo",
+  "author": "Alexandre Dumas",
+  "cover": "https://covers.openlibrary.org/b/id/14563850-L.jpg",
+  "description": "Thrown in prison for a crime he has not committed, Edmond Dantès is confined to the grim fortress of If. There he learns of a great hoard of treasure hidden on the Isle of Monte Cristo and he becomes determined not only to escape, but also to use the treasure to plot the destruction of the three men responsible for his incarceration. Dumas’ epic tale of suffering and retribution, inspired by a real-life case of wrongful imprisonment, was a huge popular success when it was first serialized in the 1840s.",
+  "genre": "Classics",
+  "price": 7.99,
+  "stocks": 15
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969cc"
+  },
+  "title": "One Hundred Years of Solitude",
+  "author": "Gabriel García Márquez",
+  "cover": "https://covers.openlibrary.org/b/id/11689779-L.jpg",
+  "description": "The brilliant, bestselling, landmark novel that tells the story of the Buendia family, and chronicles the irreconcilable conflict between the desire for solitude and the need for love—in rich, imaginative prose that has come to define an entire genre known as \"magical realism.\"",
+  "genre": "Classics",
+  "price": 7.99,
+  "stocks": 3
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969cd"
+  },
+  "title": "Jurassic Park",
+  "author": "Michael Crichton",
+  "cover": "https://covers.openlibrary.org/b/id/13071185-L.jpg",
+  "description": "The dinosaur is back on earth—alive, now. in Michael Crichton's Jurassic Park.\r\n\r\nThe story, told with an almost documentary verisimilitude, is an account of the attempt, through a hair-raising twenty-four hours on a remote jungle island, to avert a global emergency—a crisis triggered by today's headlong rush (virtually unchecked by any government or scientific watchdogs) to commercialize genetic engineering.\r\n\r\nIn Jurassic Park, Crichton makes brilliant and mesmerizing use of the unique amalgam of suspense and informed science (this time paleontology, biotechnology, and chaos theory) that he originated in The Andromeda Strain. Of all his superb scientific thrillers— all of them best-sellers—Jurassic Park is in every way the strongest. It is certain to be his most widely read, talked about, and unreservedly enjoyed novel to date.",
+  "genre": "Fantasy",
+  "price": 5.99,
+  "stocks": 8
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969ce"
+  },
+  "title": "Fantastic Mr Fox",
+  "author": "Roald Dahl",
+  "cover": "https://covers.openlibrary.org/b/id/14465455-L.jpg",
+  "description": "The main character of Fantastic Mr. Fox is an extremely clever anthropomorphized fox named Mr. Fox. He lives with his wife and four little foxes. In order to feed his family, he steals food from the cruel, brutish farmers named Boggis, Bunce, and Bean every night.\r\n\r\nFinally tired of being constantly outwitted by Mr. Fox, the farmers attempt to capture and kill him. The foxes escape in time by burrowing deep into the ground. The farmers decide to wait outside the hole for the foxes to emerge. Unable to leave the hole and steal food, Mr. Fox and his family begin to starve. Mr. Fox devises a plan to steal food from the farmers by tunneling into the ground and borrowing into the farmer's houses.\r\n\r\nAided by a friendly Badger, the animals bring the stolen food back and Mrs. Fox prepares a great celebratory banquet attended by the other starving animals and their families. Mr. Fox invites all the animals to live with him underground and says that he will provide food for them daily thanks to his underground passages. All the animals live happily and safely, while the farmers remain waiting outside in vain for Mr. Fox to show up.",
+  "genre": "Children's Books",
+  "price": 8.99,
+  "stocks": 5
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969cf"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "cover": "https://covers.openlibrary.org/b/id/14816996-L.jpg",
+  "description": "Winston Smith tows the Party line, rewriting history to satisfy the demands of the Ministry of Truth. With each lie he writes, Winston grows to hate the Party that seeks power for its own sake and persecutes those who dare to commit thoughtcrimes. But as he starts to think for himself, Winston can't escape the fact that Big Brother is always watching...",
+  "genre": "Classics",
+  "price": 10.99,
+  "stocks": 3
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969d0"
+  },
+  "title": "Harry Potter and the Prisoner of Azkaban",
+  "author": "J.K. Rowling",
+  "cover": "https://covers.openlibrary.org/b/id/14825779-L.jpg",
+  "description": "For Harry Potter, it’s the start of another far-from-ordinary year at Hogwarts when the Knight Bus crashes through the darkness and comes to an abrupt halt in front of him.\r\n\r\nIt turns out that Sirius Black, mass-murderer and follower of Lord Voldemort, has escaped – and they say he is coming after Harry.\r\n\r\nIn his first Divination class, Professor Trelawney sees an omen of death in Harry’s tea leaves.\r\n\r\nAnd perhaps most frightening of all are the Dementors patrolling the school grounds with their soul-sucking kiss – in search of fresh victims.",
+  "genre": "Children's Books",
+  "price": 12.99,
+  "stocks": 5
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969d1"
+  },
+  "title": "My Uncle Oswald",
+  "author": "Roald Dahl",
+  "cover": "https://covers.openlibrary.org/b/id/6938347-L.jpg",
+  "description": "Roald Dahl's first-ever novel presents the scurrilous memoirs of that delightful old reprobate from switch bitch, Oswald Hendryks Cornelius - connoisseur, bon vivant, collector of spiders, scorpions, odd walking sticks, lover of opera, expert on Chinese porcelain, and without doubt the greatest fornicator of all time. In this delightful picaresque story, it is revealed how Uncle Oswald first achieved great wealth - all thanks to the Sundance blister beetle, which when ground to powder has the most electrifying aphrodisiac qualities. It is 1919 - armed with the powder and aided by the beautiful amoral Yasmin how comely, Oswald begins an audacious commercial enterprise which involves seducing the most famous men in Europe - from crowded heads to Bernard Shaw and Marcel Proust.",
+  "genre": "Children's Books",
+  "price": 5.99,
+  "stocks": 2
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969d2"
+  },
+  "title": "The Amber Spyglass",
+  "author": "Philip Pullman",
+  "cover": "https://covers.openlibrary.org/b/id/12907378-L.jpg",
+  "description": "In the astonishing finale to the His Dark Materials trilogy, Lyra and Will are in unspeakable danger. With help from Iorek Byrnison the armored bear and two tiny Gallivespian spies, they must journey to a dank and gray-lit world where no living soul has ever gone. All the while, Dr. Mary Malone builds a magnificent Amber Spyglass. An assassin hunts her down, and Lord Asriel, with a troop of shining angels, fights his mighty rebellion, in a battle of strange allies—and shocking sacrifice.\r\n\r\nAs war rages and Dust drains from the sky, the fate of the living—and the dead—finally comes to depend on two children and the simple truth of one simple story.",
+  "genre": "Fantasy",
+  "price": 8.99,
+  "stocks": 3
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969d3"
+  },
+  "title": "American Gods",
+  "author": "Neil Gaiman",
+  "cover": "https://covers.openlibrary.org/b/id/14420908-L.jpg",
+  "description": "First published in 2001, American Gods became an instant classic, lauded for its brilliant synthesis of “mystery, satire, sex, horror, and poetic prose” (Washington Post) and as a modern phantasmagoria that “distills the essence of America” (Seattle Post-Intelligencer). It is the story of Shadow—released from prison just days after his wife and best friend are killed in an accident—who gets recruited to be bodyguard, driver, and errand boy for the enigmatic trickster, Mr. Wednesday. So begins Shadow’s dark and strange road trip, one that introduces him to a host of eccentric characters whose fates are mysteriously intertwined with his own. For, beneath the placid surface of everyday life, a storm is brewing—an epic war for the very soul of America—and Shadow is standing squarely in its path.",
+  "genre": "Fantasy",
+  "price": 9.99,
+  "stocks": 7
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969d4"
+  },
+  "title": "Stardust",
+  "author": "Neil Gaiman",
+  "cover": "https://covers.openlibrary.org/b/id/8216379-L.jpg",
+  "description": "Neil Gaiman's \"Writing and the Imagination.\"In the tranquil fields and meadows of long-ago England, there is a small hamlet that has stood on a jut of granite for 600 years. Just to the east stands a high stone wall, for which the village is named. Here, in the hamlet of Wall, young Tristran Thorn has lost his heart to the hauntingly beautiful Victoria Forester. And here, one crisp October eve, Tristran makes his love a promise -- an impetuous vow that will send him through the only breach in the wall, across the pasture ... and into the most exhilarating adventure of his life.",
+  "genre": "Fantasy",
+  "price": 11.99,
+  "stocks": 12
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969d5"
+  },
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "author": "J.K. Rowling",
+  "cover": "https://covers.openlibrary.org/b/id/14656853-L.jpg",
+  "description": "Harry Potter #1\r\n\r\nWhen mysterious letters start arriving on his doorstep, Harry Potter has never heard of Hogwarts School of Witchcraft and Wizardry.\r\n\r\nThey are swiftly confiscated by his aunt and uncle.\r\n\r\nThen, on Harry’s eleventh birthday, a strange man bursts in with some important news: Harry Potter is a wizard and has been awarded a place to study at Hogwarts.\r\n\r\nAnd so the first of the Harry Potter adventures is set to begin.",
+  "genre": "Children's Books",
+  "price": 7.99,
+  "stocks": 16
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969d6"
+  },
+  "title": "Northern Lights",
+  "author": "Philip Pullman",
+  "cover": "https://covers.openlibrary.org/b/id/12907373-L.jpg",
+  "description": "In a landmark epic of fantasy and storytelling, Philip Pullman invites readers into a world as convincing and thoroughly realized as Narnia, Earthsea, or Redwall. Here lives an orphaned ward named Lyra Belacqua, whose carefree life among the scholars at Oxford's Jordan College is shattered by the arrival of two powerful visitors. First, her fearsome uncle, Lord Asriel, appears with evidence of mystery and danger in the far North, including photographs of a mysterious celestial phenomenon called Dust and the dim outline of a city suspended in the Aurora Borealis that he suspects is part of an alternate universe. He leaves Lyra in the care of Mrs. Coulter, an enigmatic scholar and explorer who offers to give Lyra the attention her uncle has long refused her. In this multilayered narrative, however, nothing is as it seems. Lyra sets out for the top of the world in search of her kidnapped playmate, Roger, bearing a rare truth-telling instrument, the compass of the title. All around her children are disappearing—victims of so-called \"Gobblers\"—and being used as subjects in terrible experiments that separate humans from their daemons, creatures that reflect each person's inner being. And somehow, both Lord Asriel and Mrs. Coulter are involved.",
+  "genre": "Fantasy",
+  "price": 7.99,
+  "stocks": 2
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969d7"
+  },
+  "title": "Coraline",
+  "author": "Neil Gaiman",
+  "cover": "https://covers.openlibrary.org/b/id/11438352-L.jpg",
+  "description": "When Coraline steps through a door to find another house strangely similar to her own (only better), things seem marvelous.\r\n\r\nBut there's another mother there, and another father, and they want her to stay and be their little girl. They want to change her and never let her go.\r\n\r\nCoraline will have to fight with all her wit and courage if she is to save herself and return to her ordinary life.",
+  "genre": "Fantasy",
+  "price": 7.99,
+  "stocks": 8
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969d8"
+  },
+  "title": "Norse Mythology",
+  "author": "Neil Gaiman",
+  "cover": "https://covers.openlibrary.org/b/id/12824590-L.jpg",
+  "description": "Neil Gaiman has long been inspired by ancient mythology in creating the fantastical realms of his fiction. Now he turns his attention back to the source, presenting a bravura rendition of the great northern tales.\r\n\r\nIn Norse Mythology, Gaiman stays true to the myths in envisioning the major Norse pantheon: Odin, the highest of the high, wise, daring, and cunning; Thor, Odin’s son, incredibly strong yet not the wisest of gods; and Loki―son of a giant―blood brother to Odin and a trickster and unsurpassable manipulator.\r\n\r\nGaiman fashions these primeval stories into a novelistic arc that begins with the genesis of the legendary nine worlds and delves into the exploits of deities, dwarfs, and giants. Once, when Thor’s hammer is stolen, Thor must disguise himself as a woman―difficult with his beard and huge appetite―to steal it back. More poignant is the tale in which the blood of Kvasir―the most sagacious of gods―is turned into a mead that infuses drinkers with poetry. The work culminates in Ragnarok, the twilight of the gods and rebirth of a new time and people.\r\n\r\nThrough Gaiman’s deft and witty prose emerge these gods with their fiercely competitive natures, their susceptibility to being duped and to duping others, and their tendency to let passion ignite their actions, making these long-ago myths breathe pungent life again.",
+  "genre": "Fantasy",
+  "price": 12.99,
+  "stocks": 5
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969d9"
+  },
+  "title": "Matilda",
+  "author": "Roald Dahl",
+  "cover": "https://covers.openlibrary.org/b/id/13015722-L.jpg",
+  "description": "Matilda is a little girl who is far too good to be true. At age five-and-a-half she's knocking off double-digit multiplication problems and blitz-reading Dickens. Even more remarkably, her classmates love her even though she's a super-nerd and the teacher's pet. But everything is not perfect in Matilda's world...\r\n\r\nFor starters she has two of the most idiotic, self-centered parents who ever lived. Then there's the large, busty nightmare of a school principal, Miss (\"The\") Trunchbull, a former hammer-throwing champion who flings children at will, and is approximately as sympathetic as a bulldozer. Fortunately for Matilda, she has the inner resources to deal with such annoyances: astonishing intelligence, saintly patience, and an innate predilection for revenge.",
+  "genre": "Children's Books",
+  "price": 12.99,
+  "stocks": 2
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969da"
+  },
+  "title": "Animal Farm",
+  "author": "George Orwell",
+  "cover": "https://covers.openlibrary.org/b/id/12919250-L.jpg",
+  "description": "Animal Farm is a brilliant political satire and a powerful and affecting story of revolutions and idealism, power and corruption. 'All animals are equal. But some animals are more equal than others.' Mr Jones of Manor Farm is so lazy and drunken that one day he forgets to feed his livestock. The ensuing rebellion under the leadership of the pigs Napoleon and Snowball leads to the animals taking over the farm. Vowing to eliminate the terrible inequities of the farmyard, the renamed Animal Farm is organised to benefit all who walk on four legs. But as time passes, the ideals of the rebellion are corrupted, then forgotten. And something new and unexpected emerges...",
+  "genre": "Classics",
+  "price": 8.99,
+  "stocks": 6
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969db"
+  },
+  "title": "Harry Potter and the Chamber of Secrets",
+  "author": "J.K. Rowling",
+  "cover": "https://covers.openlibrary.org/b/id/14333264-L.jpg",
+  "description": "Throughout the summer holidays after his first year at Hogwarts School of Witchcraft and Wizardry, Harry Potter has been receiving sinister warnings from a house-elf called Dobby.\r\n\r\nNow, back at school to start his second year, Harry hears unintelligible whispers echoing through the corridors.\r\n\r\nBefore long the attacks begin: students are found as if turned to stone.\r\n\r\nDobby’s predictions seem to be coming true.",
+  "genre": "Children's Books",
+  "price": 5.99,
+  "stocks": 3
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969dc"
+  },
+  "title": "Anansi Boys",
+  "author": "Neil Gaiman",
+  "cover": "https://covers.openlibrary.org/b/id/14352432-L.jpg",
+  "description": "Anansi Boys is a fantasy novel by English writer Neil Gaiman. In the novel, \"Mr. Nancy\" — an incarnation of the West African trickster god Anansi — dies, leaving twin sons, who in turn discover one another's existence after being separated as young children. The novel follows their adventures as they explore their common heritage. Although it is not a sequel to Gaiman's previous novel American Gods, the character of Mr. Nancy appears in both books.\r\n\r\nAnansi Boys was published on 20 September 2005 and was released in paperback on 1 October 2006. The book debuted at number one on The New York Times Best Seller list, and won both the **Locus Award** and the **British Fantasy Society Award** in 2006.",
+  "genre": "Fantasy",
+  "price": 8.99,
+  "stocks": 1
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969dd"
+  },
+  "title": "Emma",
+  "author": "Jane Austen",
+  "cover": "https://covers.openlibrary.org/b/id/14617362-L.jpg",
+  "description": "Emma, by Jane Austen, is a novel about youthful hubris and the perils of misconstrued romance. The novel was first published in December 1815. As in her other novels, Austen explores the concerns and difficulties of genteel women living in Georgian-Regency England; she also creates a lively comedy of manners among her characters. Before she began the novel, Austen wrote, \"I am going to take a heroine whom no one but myself will much like.\" In the very first sentence she introduces the title character as \"Emma Woodhouse, handsome, clever, and rich.\" Emma, however, is also rather spoiled, headstrong, and self-satisfied; she greatly overestimates her own matchmaking abilities; she is blind to the dangers of meddling in other people's lives; and her imagination and perceptions often lead her astray.",
+  "genre": "Classics",
+  "price": 7.99,
+  "stocks": 1
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969de"
+  },
+  "title": "Atomic Habits",
+  "author": "James Clear",
+  "cover": "https://covers.openlibrary.org/b/id/14825818-L.jpg",
+  "description": "No matter your goals, Atomic Habits offers a proven framework for improving every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
+  "genre": "Self-help",
+  "price": 9.99,
+  "stocks": 3
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969df"
+  },
+  "title": "The Witches",
+  "author": "Roald Dahl",
+  "cover": "https://covers.openlibrary.org/b/id/9298629-L.jpg",
+  "description": "A young boy and his Norwegian grandmother, who is an expert on witches, together foil a witches' plot to destroy the world's children by turning them into mice.",
+  "genre": "Children's Books",
+  "price": 5.99,
+  "stocks": 1
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969e0"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "cover": "https://covers.openlibrary.org/b/id/14543309-L.jpg",
+  "description": "Pride and Prejudice is an 1813 novel of manners written by Jane Austen. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.\r\n\r\nMr. Bennet, owner of the Longbourn estate in Hertfordshire, has five daughters, but his property is entailed and can only be passed to a male heir. His wife also lacks an inheritance, so his family faces becoming very poor upon his death. Thus, it is imperative that at least one of the girls marry well to support the others, which is a motivation that drives the plot.",
+  "genre": "Classics",
+  "price": 10.99,
+  "stocks": 11
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969e1"
+  },
+  "title": "The Graveyard Book",
+  "author": "Neil Gaiman",
+  "cover": "https://covers.openlibrary.org/b/id/12049091-L.jpg",
+  "description": "Bod is an unusual boy who inhabits an unusual place—he's the only living resident of a graveyard. Raised from infancy by the ghosts, werewolves, and other cemetery denizens, Bod has learned the antiquated customs of his guardians' time as well as their ghostly teachings—such as the ability to Fade so mere mortals cannot see him.\r\n\r\nCan a boy raised by ghosts face the wonders and terrors of the worlds of both the living and the dead?\r\n\r\nThe Graveyard Book is the winner of the Newbery Medal, the Carnegie Medal, the Hugo Award for best novel, the Locus Award for Young Adult novel, the American Bookseller Association’s “Best Indie Young Adult Buzz Book,” a Horn Book Honor, and Audio Book of the Year.",
+  "genre": "Fantasy",
+  "price": 5.99,
+  "stocks": 3
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969e2"
+  },
+  "title": "Persuasion",
+  "author": "Jane Austen",
+  "cover": "https://covers.openlibrary.org/b/id/14656386-L.jpg",
+  "description": "Persuasion tells the love story of Anne Elliot and Captain Frederick Wentworth, whose sister rents Miss Elliot's father's house, after the Napoleonic Wars come to an end. The story is set in 1814. The book itself is Jane Austen's last published book, published posthumously in December of 1818.",
+  "genre": "Classics",
+  "price": 5.99,
+  "stocks": 3
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969e3"
+  },
+  "title": "Love in the Time of Cholera",
+  "author": "Gabriel García Márquez",
+  "cover": "https://covers.openlibrary.org/b/id/7453792-L.jpg",
+  "description": "In their youth, Florentino Ariza and Fermina Daza fall passionately in love. When Fermina eventually chooses to marry a wealthy, well-born doctor, Florentino is heartbroken, but he is a romantic. As he rises in his business career he whiles away the years in 622 affairs—yet he reserves his heart for Fermina. Her husband dies at last, and Florentino purposefully attends the funeral. Fifty years, nine months, and four days after he first declared his love for Fermina, he will do so again.",
+  "genre": "Classics",
+  "price": 12.99,
+  "stocks": 7
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969e4"
+  },
+  "title": "Alexander Hamilton",
+  "author": "Ron Chernow",
+  "cover": "https://covers.openlibrary.org/b/id/12856240-L.jpg",
+  "description": "From National Book Award winner Ron Chernow, a landmark biography of Alexander Hamilton, the Founding Father who galvanized, inspired, scandalized, and shaped the newborn nation.In the first full-length biography of Alexander Hamilton in decades, National Book Award winner Ron Chernow tells the riveting story of a man who overcame all odds to shape, inspire, and scandalize the newborn America. According to historian Joseph Ellis, Alexander Hamilton is \"a robust full-length portrait, in my view the best ever written, of the most brilliant, charismatic and dangerous founder of them all.\"Few figures in American history have been more hotly debated or more grossly misunderstood than Alexander Hamilton. Chernow's biography gives Hamilton his due and sets the record straight, deftly illustrating that the political and economic greatness of today's America is the result of Hamilton's countless sacrifices to champion ideas that were often wildly disputed during his time. \"To repudiate his legacy,\" Chernow writes, \"is, in many ways, to repudiate the modern world.\" Chernow here recounts Hamilton's turbulent life: an illegitimate, largely self-taught orphan from the Caribbean, he came out of nowhere to take America by storm, rising to become George Washington's aide-de-camp in the Continental Army, coauthoring The Federalist Papers, founding the Bank of New York, leading the Federalist Party, and becoming the first Treasury Secretary of the United States.Historians have long told the story of America's birth as the triumph of Jefferson's democratic ideals over the aristocratic intentions of Hamilton. Chernow presents an entirely different man, whose legendary ambitions were motivated not merely by self-interest but by passionate patriotism and a stubborn will to build the foundations of American prosperity and power. His is a Hamilton far more human than we've encountered before—from his shame about his birth to his fiery aspirations, from his intimate relationships with childhood friends to his titanic feuds with Jefferson, Madison, Adams, Monroe, and Burr, and from his highly public affair with Maria Reynolds to his loving marriage to his loyal wife Eliza. And never before has there been a more vivid account of Hamilton's famous and mysterious death in a duel with Aaron Burr in July of 1804.Chernow's biography is not just a portrait of Hamilton, but the story of America's birth seen through its most central figure. At a critical time to look back to our roots, Alexander Hamilton will remind readers of the purpose of our institutions and our heritage as Americans.",
+  "genre": "Biographical Books",
+  "price": 9.99,
+  "stocks": 2
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969e5"
+  },
+  "title": "The Subtle Art of Not Giving a Fuck",
+  "author": "Mark Manson",
+  "cover": "https://covers.openlibrary.org/b/id/12833562-L.jpg",
+  "description": "In this book, blogger and former internet entrepreneur Mark Manson explains in simple, no expletives barred terms how to achieve happiness by caring more about fewer things and not caring at all about more.\r\n\r\nHe explains how the metrics we use to define ourselves may be the very things holding us back. By redefining our metrics, questioning ourselves and doubting everything, we may be able to find that we're better off than we think, and thereby become happier people.",
+  "genre": "Self-help",
+  "price": 11.99,
+  "stocks": 5
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969e6"
+  },
+  "title": "Of Love and Other Demons",
+  "author": "Gabriel García Márquez",
+  "cover": "https://covers.openlibrary.org/b/id/9264564-L.jpg",
+  "description": "From the Nobel Prize-winning author of Love in the Time of Cholera, a startling new novel — the story of a doomed love affair between an unruly copper-haired girl and the bookish priest sent to oversee her exorcism.\r\n\r\nOf Love and Other Demons is set in a South American seaport in the colonial era, a time of viceroys and bishops, enlightened men and Inquisitors, saints and lepers and pirates. Sierva Maria, only child of a decaying noble family, has been raised in the slaves' courtyard of her father's cobwebbed mansion while her mother succumbs to fermented honey and cacao on a faraway plantation. On her twelfth birthday the girl is bitten by a rabid dog, and even as the wound is healing she is made to endure therapies indistinguishable from tortures. Believed, finally, to be possessed, she is brought to a convent for observation. And into her cell stumbles Father Cayetano Delaura, the Bishop's protege, who has already dreamed about a girl with hair trailing after her like a bridal train; who is already moved by this kicking, spitting, emaciated creature strapped to a stone bed. As he tends to her with holy water and sacramental oils, Delaura feels \"something immense and irreparable\" happening to him. It is love, \"the most terrible demon of all.\" And it is not long before Sierra Maria joins him in his fevered misery.\r\n\r\nUnsettling and indelible, Of Love and Other Demons haunts us with its evocation of an exotic world while it treats, majestically the most universal experiences known to woman and man.",
+  "genre": "Classics",
+  "price": 5.99,
+  "stocks": 8
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969e7"
+  },
+  "title": "The Hunger Games",
+  "author": "Suzanne Collins",
+  "cover": "https://covers.openlibrary.org/b/id/14618965-L.jpg",
+  "description": "In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV.\r\n\r\nSixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she steps forward to take her sister's place in the Games. But Katniss has been close to dead before—and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weight survival against humanity and life against love.",
+  "genre": "Fantasy",
+  "price": 5.99,
+  "stocks": 2
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969e8"
+  },
+  "title": "Sense and Sensibility",
+  "author": "Jane Austen",
+  "cover": "https://covers.openlibrary.org/b/id/14552664-L.jpg",
+  "description": "When Mr. Dashwood dies, he must leave the bulk of his estate to the son by his first marriage, which leaves his second wife and three daughters (Elinor, Marianne, and Margaret) in straitened circumstances. They are taken in by a kindly cousin, but their lack of fortune affects the marriageability of both practical Elinor and romantic Marianne. When Elinor forms an attachment for the wealthy Edward Ferrars, his family disapproves and separates them. And though Mrs. Jennings tries to match the worthy (and rich) Colonel Brandon to her, Marianne finds the dashing and fiery Willoughby more to her taste. Both relationships are sorely tried. But this is a romance, and through the hardships and heartbreak, true love and a happy ending will find their way for both the sister who is all sense and the one who is all sensibility.",
+  "genre": "Classics",
+  "price": 7.99,
+  "stocks": 7
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969e9"
+  },
+  "title": "Leaf storm",
+  "author": "Gabriel García Márquez",
+  "cover": "https://covers.openlibrary.org/b/id/10222032-L.jpg",
+  "description": "The Banana Company arrived in the town of Macondo like a whirlwind and along with it warehouses, amusement parlours and slums have descended. The people who live there reel at the stench of rubbish that makes their own homes unrecognisable. Then when the banana company leaves town just as fast as it arrived, they find themselves left with a void of decay. But living among the devastation is one last honourable man, the Colonel, who's determined to fulfil his lifelong promise, no matter how distasteful it may be. With the death of the detested Doctor, he must provide an honourable burial - and at the same time incur the wrath of the people of Macondo, who would much rather see the Doctor rot, forgotten and unattended.",
+  "genre": "Classics",
+  "price": 5.99,
+  "stocks": 2
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969ea"
+  },
+  "title": "Catching Fire",
+  "author": "Suzanne Collins",
+  "cover": "https://covers.openlibrary.org/b/id/14649869-L.jpg",
+  "description": "Against all odds, Katniss Everdeen has won the Hunger Games. She and fellow District 12 tribute Peeta Mellark are miraculously still alive. Katniss should be relieved, happy even. After all, she has returned to her family and her longtime friend, Gale. Yet nothing is the way Katniss wishes it to be. Gale holds her at an icy distance. Peeta has turned his back on her completely. And there are whispers of a rebellion against the Capitol—a rebellion that Katniss and Peeta may have helped create.\r\n\r\nMuch to her shock, Katniss has fueled an unrest that she's afraid she cannot stop. And what scares her even more is that she's not entirely convinced she should try. As time draws near for Katniss and Peeta to visit the districts on the Capitol's cruel Victory Tour, the stakes are higher than ever. If they can't prove, without a shadow of a doubt, that they are lost in their love for each other, the consequences will be horrifying.\r\n\r\nIn Catching Fire, the second novel of the Hunger Games trilogy, Suzanne Collins continues the story of Katniss Everdeen, testing her more than ever before . . . and surprising readers at every turn.",
+  "genre": "Fantasy",
+  "price": 8.99,
+  "stocks": 7
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969eb"
+  },
+  "title": "Northanger Abbey",
+  "author": "Jane Austen",
+  "cover": "https://covers.openlibrary.org/b/id/14552703-L.jpg",
+  "description": "Northanger Abbey is both a perfectly aimed literary parody and a withering satire of the commercial aspects of marriage among the English gentry at the turn of the nineteenth century. But most of all, it is the story of the initiation into life of its naïve but sweetly appealing heroine, Catherine Morland, a willing victim of the contemporary craze for Gothic literature who is determined to see herself as the heroine of a dark and thrilling romance.\r\n\r\nWhen Catherine is invited to Northanger Abbey, the grand though forbidding ancestral seat of her suitor, Henry Tilney, she finds herself embroiled in a real drama of misapprehension, mistreatment, and mortification, until common sense and humor—and a crucial clarification of Catherine’s financial status—puts all to right. Written in 1798 but not published until after Austen’s death in 1817, Northanger Abbey is characteristically clearheaded and strong, and infinitely subtle in its comedy.",
+  "genre": "Classics",
+  "price": 10.99,
+  "stocks": 10
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969ec"
+  },
+  "title": "The Secret",
+  "author": "Rhonda Byrne",
+  "cover": "https://covers.openlibrary.org/b/id/845815-L.jpg",
+  "description": "Fragments of a Great Secret have been found in the oral traditions, in literature, in religions and philosophies throughout the centuries. For the first time, all the pieces of The Secret come together in an incredible revelation that will be life-transforming for all who experience it. In this book, you'll learn how to use The Secret in every aspect of your life - money, health, relationships, happiness, and in every interaction you have in the world. You'll begin to understand the hidden, untapped power that's within you, and this revelation can bring joy to every aspect of your life. The Secret contains wisdom from modern-day teachers - men and women who have used it to achieve health, wealth, and happiness. By applying the knowledge of The Secret, they bring to light compelling stories of eradicating disease, acquiring massive wealth, overcoming obstacles, and achieving what many would regard as impossible.",
+  "genre": "Self-help",
+  "price": 12.99,
+  "stocks": 6
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969ed"
+  },
+  "title": "The Lost World",
+  "author": "Michael Crichton",
+  "cover": "https://covers.openlibrary.org/b/id/12882943-L.jpg",
+  "description": "The Lost World is a 1995 techno-thriller novel written by Michael Crichton, and the sequel to his 1990 novel Jurassic Park. It is his tenth novel under his own name and his twentieth overall, and it was published by Knopf. A paperback edition (ISBN 0-345-40288-X) followed in 1996. In 1997, both novels were re-published as a single book titled Michael Crichton's Jurassic World, which is unrelated to the 2015 film of the same name.",
+  "genre": "Fantasy",
+  "price": 6.99,
+  "stocks": 8
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969ee"
+  },
+  "title": "Harry Potter and the Deathly Hallows",
+  "author": "J.K. Rowling",
+  "cover": "https://covers.openlibrary.org/b/id/14656848-L.jpg",
+  "description": "It's no longer safe for Harry at Hogwarts, so he and his best friends, Ron and Hermione, are on the run. Professor Dumbledore has given them clues about what they need to do to defeat the dark wizard, Lord Voldemort, once and for all, but it's up to them to figure out what these hints and suggestions really mean. Their cross-country odyssey has them searching desperately for the answers, while evading capture or death at every turn. At the same time, their friendship, fortitude, and sense of right and wrong are tested in ways they never could have imagined. The ultimate battle between good and evil that closes out this final chapter of the epic series takes place where Harry's Wizarding life began: at Hogwarts. The satisfying conclusion offers shocking last-minute twists, incredible acts of courage, powerful new forms of magic, and the resolution of many mysteries. Above all, this intense, cathartic book serves as a clear statement of the message at the heart of the Harry Potter series: that choice matters much more than destiny, and that love will always triumph over death.",
+  "genre": "Children's Books",
+  "price": 15.99,
+  "stocks": 3
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969ef"
+  },
+  "title": "Fragile Things",
+  "author": "Neil Gaiman",
+  "cover": "https://covers.openlibrary.org/b/id/12387899-L.jpg",
+  "description": "A mysterious circus terrifies an audience for one extraordinary performance before disappearing into the night, taking one of the spectators along with it.\r\n\r\nIn a novella set two years after the events of American Gods, Shadow pays a visit to an ancient Scottish mansion, and finds himself trapped in a game of murder and monsters.\r\n\r\nAnother short story is set in a strangely altered Victorian England, the great detective Sherlock Holmes must solve a most unsettling royal murder.\r\n\r\nTwo teenage boys crash a party and meet the girls of their dreams and nightmares.\r\n\r\nThe members of an excusive epicurean club lament that they've eaten everything that can be eaten, with the exception of a legendary, rare, and exceedingly dangerous Egyptian bird.\r\n\r\nSuch marvelous creations and more, including a short story set in the world of The Matrix and others set in the worlds of gothic fiction and children's fiction, can be found in this collection, which showcases Gaiman's storytelling brilliance as well as his entertaining (and dark) sense of humor. By turns delightful, disturbing, and diverting, Fragile Things is a gift of literary enchantment from one of the most unique writers of our time.",
+  "genre": "Fantasy",
+  "price": 5.99,
+  "stocks": 9
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969f0"
+  },
+  "title": "The Andromeda Strain",
+  "author": "Michael Crichton",
+  "cover": "https://covers.openlibrary.org/b/id/9330583-L.jpg",
+  "description": "The United States government is given a warning by the pre-eminent biophysicists in the country: current sterilization procedures applied to returning space probes may be inadequate to guarantee uncontaminated re-entry to the atmosphere.",
+  "genre": "Fantasy",
+  "price": 7.99,
+  "stocks": 4
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969f1"
+  },
+  "title": "I know why the caged bird sings",
+  "author": "Maya Angelou",
+  "cover": "https://covers.openlibrary.org/b/id/12619635-L.jpg",
+  "description": "She was born Marguerite, but her brother Bailey nicknamed her Maya (\"mine\"). As little children they were sent to live with their grandmother in Stamps, Arkansas. Their early world revolved around this remarkable woman and the Store she ran for the black community. White people were more than strangers - they were from another planet. And yet, even unseen they ruled. \r\n\r\nThe Store was a microcosm of life: its orderly pattern was a comfort, even among the meanest frustrations. But then came the intruders - first in the form of taunting poorwhite children who were bested only by the grandmother's dignity. But as the awful, unfathomable mystery of prejudice intruded, so did the unexpected joy of a surprise visit by Daddy, the sinful joy of going to Church, the disappointments of a Depression Christmas.\r\n\r\nA visit to St. Louis and the Most Beautiful Mother in the World ended in tragedy - rape. Thereafter Maya refused to speak, except to the person closest to her, Bailey. Eventually, Maya and Bailey followed their mother to California. There, the formative phase of her life (as well as this book) comes to a close with the painful discovery of the true nature of her father, the emergence of a hard-won independence and - perhaps most important - a baby, born out of wedlock, loved and kept.\r\n\r\nSuperbly told, with the poet's gift for language and observation, and charged with the unforgetable emotion of remembered anguish and love - this remarkable autobiography by an equally remarkable black girl from Arkansas captures, indelibly, a world of which most Americans are shamefully ignorant.",
+  "genre": "Biographical Books",
+  "price": 9.99,
+  "stocks": 3
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969f2"
+  },
+  "title": "The 13th Warrior",
+  "author": "Michael Crichton",
+  "cover": "https://covers.openlibrary.org/b/id/8400990-L.jpg",
+  "description": "In the year A.D. 922, a refined Arab courtier, representative of the powerful Caliph of Bagdad, encounters a party of Viking warriors on their journey to the barbaric North. He is appalled by Viking customs - the wanton sexuality of their pale, angular women, their disregard for cleanliness, their cold-blooded human sacrifices. But only in the depths of the Northland does he learn the horrifying truth: he has been enlisted to combat a terror that comes under cover of night to slaughter the Vikings and devour their flesh...",
+  "genre": "Fantasy",
+  "price": 5.99,
+  "stocks": 3
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969f3"
+  },
+  "title": "Burmese days",
+  "author": "George Orwell",
+  "cover": "https://covers.openlibrary.org/b/id/12628677-L.jpg",
+  "description": "Set in the days of the Empire, with the British ruling in Burma, Orwell's book describes corruption and imperial bigotry. Flory, a white timber merchant, befriends Dr Veraswami, a black enthusiast for the Empire, whose downfall can only be prevented by membership at an all-white club.",
+  "genre": "Classics",
+  "price": 10.99,
+  "stocks": 1
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969f4"
+  },
+  "title": "Einstein",
+  "author": "Walter Isaacson",
+  "cover": "https://covers.openlibrary.org/b/id/2999046-L.jpg",
+  "description": "The first full biography of Albert Einstein since all of his papers have become available shows how his scientific imagination sprang from the rebellious nature of his personality. Biographer Isaacson explores how an imaginative, impertinent patent clerk--a struggling father in a difficult marriage who couldn't get a teaching job or a doctorate--became the locksmith of the mysteries of the atom and the universe. His success came from questioning conventional wisdom and marveling at mysteries that struck others as mundane. This led him to embrace a morality and politics based on respect for free minds, free spirits, and free individuals. These traits are just as vital for this new century of globalization, in which our success will depend on our creativity, as they were for the beginning of the last century, when Einstein helped usher in the modern age.",
+  "genre": "Biographical Books",
+  "price": 11.99,
+  "stocks": 2
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969f5"
+  },
+  "title": "Harry Potter and the Order of the Phoenix",
+  "author": "J.K. Rowling",
+  "cover": "https://covers.openlibrary.org/b/id/14648524-L.jpg",
+  "description": "After the Dementors’ attack on his cousin Dudley, Harry knows he is about to become Voldemort’s next target.\r\n\r\nAlthough many are denying the Dark Lord’s return, Harry is not alone, and a secret order is gathering at Grimmauld Place to fight against the Dark forces.\r\n\r\nMeanwhile, Voldemort’s savage assaults on Harry’s mind are growing stronger every day.\r\n\r\nHe must allow Professor Snape to teach him to protect himself before he runs out of time.",
+  "genre": "Children's Books",
+  "price": 5.99,
+  "stocks": 7
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969f6"
+  },
+  "title": "Steve Jobs",
+  "author": "Walter Isaacson",
+  "cover": "https://covers.openlibrary.org/b/id/9344786-L.jpg",
+  "description": "From the author of the bestselling biographies of Benjamin Franklin and Albert Einstein, this is the exclusive biography of Steve Jobs. Based on more than forty interviews with Jobs conducted over two years--as well as interviews with more than a hundred family members, friends, adversaries, competitors, and colleagues--Walter Isaacson has written a riveting story of the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publishing. At a time when America is seeking ways to sustain its innovative edge, and when societies around the world are trying to build digital-age economies, Jobs stands as the ultimate icon of inventiveness and applied imagination. He knew that the best way to create value in the twenty-first century was to connect creativity with technology. He built a company where leaps of the imagination were combined with remarkable feats of engineering. Although Jobs cooperated with this book, he asked for no control over what was written nor even the right to read it before it was published. He put nothing off-limits. He encouraged the people he knew to speak honestly. And Jobs speaks candidly, sometimes brutally so, about the people he worked with and competed against. His friends, foes, and colleagues provide an unvarnished view of the passions, perfectionism, obsessions, artistry, devilry, and compulsion for control that shaped his approach to business and the innovative products that resulted. Driven by demons, Jobs could drive those around him to fury and despair. But his personality and products were interrelated, just as Apple's hardware and software tended to be, as if part of an integrated system. His tale is instructive and cautionary, filled with lessons about innovation, character, leadership, and values.",
+  "genre": "Biographical Books",
+  "price": 10.99,
+  "stocks": 5
+},
+{
+  "_id": {
+    "$oid": "674ce54671c98ffe879969f7"
+  },
+  "title": "Congo",
+  "author": "Michael Crichton",
+  "cover": "https://covers.openlibrary.org/b/id/10656026-L.jpg",
+  "description": "Deep in the African rain forest, near the legendary ruins of the Lost City of Zinj, an expedition of eight American geologists is mysteriously and brutally killed in a matter of minutes.\r\n\r\nTen thousand miles away, Karen Ross, the Congo Project Supervisor, watches a gruesome video transmission of the aftermath: a camp destroyed, tents crushed and torn, equipment scattered in the mud alongside dead bodies — all motionless except for one moving image — a grainy, dark, man-shaped blur.\r\n\r\nIn San Francisco, primatologist Peter Elliot works with Amy, a gorilla with an extraordinary vocabulary of 620 “signs,” the most ever learned by a primate, and she likes to fingerpaint. But recently, her behavior has been erratic and her drawings match, with stunning accuracy, the brittle pages of a Portuguese print dating back to 1642 . . . a drawing of an ancient lost city. A new expedition — along with Amy — is sent into the Congo where they enter a secret world, and the only way out may be through a horrifying death …",
+  "genre": "Fantasy",
+  "price": 8.99,
+  "stocks": 3
+}]
