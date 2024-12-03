@@ -7,7 +7,7 @@ const HomeButton = () => {
   return (
     <div className="home-btn-container">
       <Link href="/" className="home-btn">
-        <Image src={HomeIcon} alt="navigate home" />
+        <Image src={HomeIcon} alt="navigate home" className="home-btn-icon" />
       </Link>
     </div>
   );
