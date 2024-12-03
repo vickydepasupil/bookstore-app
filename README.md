@@ -15,6 +15,10 @@
 - Cart items page where user can either purchase or delete items in cart
 - Mobile view ready
 
+### Running the Application
+- To run the application, you must connect to an instance of MongoDB. The seed data is provided in the DB Seed Data folder (root).
+- Take your connection string and replace the placeholder in the .env / .env.local file.
+
 ### Sample views:
 #### Landing Page - Desktop
 <img width="1080" alt="Screenshot 2024-12-03 at 5 01 53 PM" src="https://github.com/user-attachments/assets/0b8c0af1-cc3f-430c-95d7-bdfe62a98e86">
