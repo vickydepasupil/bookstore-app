@@ -28,7 +28,7 @@ const BookPage = async ({
   const id = (await searchParams).id || 'no-id';
   const title = (await searchParams).title || 'no-title';
   const bookList = (await fetchData(id.toString(), title.toString())) as BookCardProps[];
-  const books = bookList.map((book) => {
+  const books = bookList?.map((book) => {
     return {
       ...book,
       showDescription: true,

@@ -23,7 +23,7 @@ const AuthorsPage = async ({
   const author = (await searchParams).name || 'no-author';
   const book = (await fetchData(author.toString())) as BookCardProps[];
 
-  if (!!book) {
+  if (Array.isArray(book) && book?.length > 0) {
     return (
       <>
         <div className="page-title">{`Books by ${author.toString()}`}</div>

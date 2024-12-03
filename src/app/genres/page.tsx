@@ -23,7 +23,7 @@ const GenresPage = async ({
   const genre = (await searchParams).name || 'no-genre';
   const book = (await fetchData(genre.toString())) as BookCardProps[];
 
-  if (!!book) {
+  if (Array.isArray(book) && book?.length > 0) {
     return (
       <>
         <div className="page-title">{`Books under ${genre.toString()}`}</div>
