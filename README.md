@@ -38,4 +38,6 @@
 <img width="398" alt="Screenshot 2024-12-03 at 4 47 39 PM" src="https://github.com/user-attachments/assets/e02b4327-a087-44f3-8ea6-30470b8afc31">
 
 ### Lighthouse analysis report:
+Lighthouse is a tool used to check website performance. It audits the website for SEO, accessibility, and loading times, among other things, and provides insights on how to improve the code to meet industry standards. I ran the build version of the app through Lighthouse and got the following results:
+
 <img width="1680" alt="Screenshot 2024-12-03 at 4 26 44 PM" src="https://github.com/user-attachments/assets/66041b01-5421-4d3e-9d87-a14d88634969">
