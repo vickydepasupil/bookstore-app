@@ -6,8 +6,8 @@ const CardList = async ({ books }: CardListProps) => {
   return (
     <div className="card-list">
       {Array.isArray(books) &&
-        books.length > 0 &&
-        books.map((book) => <BookCard key={book.title} {...book} />)}
+        books?.length > 0 &&
+        books.map((book) => <BookCard key={book?.title} {...book} />)}
     </div>
   );
 };
