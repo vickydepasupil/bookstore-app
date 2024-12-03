@@ -4,6 +4,9 @@ module.exports = {
   coverageDirectory: 'coverage',
   moduleNameMapper: {
     '^src/(.*)$': '<rootdir>/src/$1',
+    '^app/(.*)$': '<rootDir>/src/app/$1',
+    '^lib/(.*)$': '<rootDir>/src/lib/$1',
+    '^models/(.*)$': '<rootDir>/src/models/$1',
     '^components/(.*)$': '<rootDir>/src/components/$1',
     '^constants/(.*)$': '<rootDir>/src/constants/$1',
     '^context/(.*)$': '<rootDir>/src/context/$1',
