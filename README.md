@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Bookstore App
+### A practice application created with:
+- Next.js
+- Tailwind CSS
+- MongoDB Atlas
 
-## Getting Started
+### Pages, Components, and Features:
+- Landing page with search bar that allows users to search by title (multiple results)
+- Product card with selected book details and Add to cart button
+- Product card will show "Out of Stock" and disable Add to cart button if all stock have been purchased
+- Product card will show "Last item" chip if stock == 1
+- Product page with all book details including description
+- Filter books by author (viewed as a page)
+- Filter books by genre (viewed as a page)
+- Cart items page where user can either purchase or delete items in cart
+- Mobile view ready
 
-First, run the development server:
+### Sample views:
+#### Landing Page - Desktop
+<img width="1080" alt="Screenshot 2024-12-03 at 5 01 53 PM" src="https://github.com/user-attachments/assets/0b8c0af1-cc3f-430c-95d7-bdfe62a98e86">
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+#### Landing Page - Mobile
+<img width="398" alt="Screenshot 2024-12-03 at 4 48 18 PM" src="https://github.com/user-attachments/assets/ba7e364c-30a3-4165-a171-f11ec9e2aa9b">
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Product Page - Desktop
+<img width="1079" alt="Screenshot 2024-12-03 at 4 46 36 PM" src="https://github.com/user-attachments/assets/89be9b3e-b5c8-4a67-ace1-989730ed286c">
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+#### Side Bar - Mobile
+<img width="401" alt="Screenshot 2024-12-03 at 4 47 55 PM" src="https://github.com/user-attachments/assets/b3d4c9e0-d6cb-43b4-a5ba-7fb301beaf91">
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+#### Filter by Author (page) - Desktop
+<img width="1068" alt="Screenshot 2024-12-03 at 4 28 41 PM" src="https://github.com/user-attachments/assets/6f1027fa-a641-435c-8455-c1b070aad492">
 
-## Learn More
+#### Product Cart - Desktop
+<img width="1079" alt="Screenshot 2024-12-03 at 4 46 54 PM" src="https://github.com/user-attachments/assets/a3997b3b-0920-4dd8-ae27-d6cb8dca5a88">
 
-To learn more about Next.js, take a look at the following resources:
+#### Product Cart - Mobile
+<img width="398" alt="Screenshot 2024-12-03 at 4 47 39 PM" src="https://github.com/user-attachments/assets/e02b4327-a087-44f3-8ea6-30470b8afc31">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Lighthouse analysis report:
+<img width="1680" alt="Screenshot 2024-12-03 at 4 26 44 PM" src="https://github.com/user-attachments/assets/66041b01-5421-4d3e-9d87-a14d88634969">
