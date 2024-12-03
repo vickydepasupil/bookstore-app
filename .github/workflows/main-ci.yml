@@ -1,0 +1,30 @@
+name: React CI
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  lint-and-test:
+    name: Lint and Test Codebase
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16' # Adjust Node.js version to match your project requirements
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Run ESLint
+      run: npm run lint
+
+    - name: Run Jest Tests
+      run: npm test -- --ci --coverage
