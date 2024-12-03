@@ -7,7 +7,7 @@ import { AddToCartBtnProps } from './AddToCartBtnProps';
 
 const AddToCartBtn = ({ id, title, disabled }: AddToCartBtnProps) => {
   const addOrUpdateCartItem = async (id: string) => {
-    const res = await axios.post(`${process.env.BASE_URL}/api/cart`, { id });
+    const res = await axios.post(`${process.env.NEXT_PUBLIC_BASE_URL}/api/cart`, { id });
     return res;
   };
 

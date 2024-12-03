@@ -7,7 +7,7 @@ import axios from 'axios';
 
 const DeleteBtn = ({ _id, title }: DeleteBtnProps) => {
   const handleDelete = async () => {
-    const res = await axios.delete(`${process.env.BASE_URL}/api/cart`, { params: { id: _id } });
+    const res = await axios.delete(`${process.env.NEXT_PUBLIC_BASE_URL}/api/cart`, { params: { id: _id } });
     console.log('res', res);
   };
 
