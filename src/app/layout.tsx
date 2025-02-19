@@ -4,6 +4,7 @@ import Book from 'models/Book';
 import MainHeader from 'components/MainHeader';
 import SideBar from 'components/SideBar';
 import { MenuStateProvider } from 'context/MenuState/MenuStateProvider';
+import { ToastStateProvider } from 'context/ToastState/ToastStateProvider';
 import 'styles/scss/_app.scss';
 
 export const metadata: Metadata = {
@@ -33,9 +34,11 @@ export default async function RootLayout({
     <html lang="en">
       <body className="antialiased">
         <MenuStateProvider>
-          <MainHeader />
-          <SideBar {...sideBarData} />
-          {children}
+          <ToastStateProvider>
+            <MainHeader />
+            <SideBar {...sideBarData} />
+            {children}
+          </ToastStateProvider>
         </MenuStateProvider>
       </body>
     </html>
