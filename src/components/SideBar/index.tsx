@@ -3,9 +3,12 @@ import React, { useContext } from 'react';
 import { MenuStateContext } from 'context/MenuState/MenuStateProvider';
 import { SideBarProps, SideBarSectionProps } from './SideBarProps';
 import Link from 'next/link';
+import Image from 'next/image';
+import Badge from 'components/Icons/Badge';
+import CartIcon from 'public/icons/cart-shopping-solid.svg';
 
 const SideBar = ({ data }: SideBarProps) => {
-  const { isOpen } = useContext(MenuStateContext);
+  const { isOpen, showBadge, setShowBadge } = useContext(MenuStateContext);
   const sections = [
     {
       name: 'genres',
@@ -21,8 +24,14 @@ const SideBar = ({ data }: SideBarProps) => {
     <>
       <div className={`side-bar ${isOpen ? 'open' : ''}`}>
         <ul className="sections">
-          <li>
-            <Link href="/checkout">CART</Link>
+          <li className="shopping-cart">
+            <div className="icon-container">
+              <Badge show={showBadge} />
+              <Image src={CartIcon} alt="go to shopping cart" />
+            </div>
+            <Link href="/checkout" onClick={() => setShowBadge(false)}>
+              CART
+            </Link>
           </li>
           {sections.map((section: SideBarSectionProps) => (
             <li key={section?.name}>
